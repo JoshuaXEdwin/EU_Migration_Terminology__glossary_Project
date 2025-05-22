@@ -6,7 +6,7 @@ This repository contains a curated sample from a multilingual, corpus-based glos
 To create learner-friendly, COBUILD-style glosses for key migration terms based on real-world usage and multilingual alignment (EN–IT), supporting EU policy communication and digital accessibility.
 
 ## Repository Contents
-- `joshua_glossary_sample.csv` – A small selection of lemma entries from my personal contribution, with English-Italian pairs, glossary source, and standardized definitions.
+- `Joshua_glossary_sample.csv` – A small selection of lemma entries from my personal contribution, with English-Italian pairs, glossary source, and standardized definitions.
 - `EU_Migration_Terminology_Assignment_Guide_Selected_Pages.pdf` – Selected pages from the original guide outlining methodology and format expectations.
 
 ## Tools Used
