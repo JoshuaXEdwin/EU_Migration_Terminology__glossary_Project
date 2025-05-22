@@ -13,7 +13,6 @@ To create learner-friendly, COBUILD-style glosses for key migration terms based 
 - Sketch Engine (EUR-Lex corpus)
 - EMN Migration Glossary
 - IATE (EU terminology database)
-- Google Sheets & Forms
 
 ## Sample Gloss Table (Excerpt)
 
